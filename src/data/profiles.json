@@ -1,0 +1,3362 @@
+[
+  {
+    "id": 1,
+    "nome": "Profissional 1",
+    "foto": "./images/avatar1.jpg",
+    "cargo": "Engenheiro(a) de Infraestrutura",
+    "resumo": "Profissional com experiência na área de Infraestrutura e interesse em tecnologias emergentes.",
+    "localizacao": "Recife/PE",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Git",
+      "UX Research",
+      "JavaScript",
+      "Figma"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Empatia",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Engenheiro(a) de Infraestrutura",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Edge Computing"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Profissional 2",
+    "foto": "./images/avatar2.jpg",
+    "cargo": "Analista Clínico",
+    "resumo": "Profissional com experiência na área de Saúde e interesse em tecnologias emergentes.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "AWS",
+      "Python",
+      "CSS"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Gerência de tempo",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista Clínico",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde Digital",
+      "Edge Computing"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Profissional 3",
+    "foto": "./images/avatar3.jpg",
+    "cargo": "Analista Clínico",
+    "resumo": "Profissional com experiência na área de Saúde e interesse em tecnologias emergentes.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "C++",
+      "Node.js",
+      "Python",
+      "UX Research"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista Clínico",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Edge Computing",
+      "Educação"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Profissional 4",
+    "foto": "./images/avatar4.jpg",
+    "cargo": "Analista de Negócios",
+    "resumo": "Profissional com experiência na área de Negócios e interesse em tecnologias emergentes.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Negócios",
+    "habilidadesTecnicas": [
+      "Pandas",
+      "Python",
+      "TypeScript",
+      "SQL"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista de Negócios",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde Digital",
+      "Acessibilidade"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Profissional 5",
+    "foto": "./images/avatar5.jpg",
+    "cargo": "Analista de Negócios",
+    "resumo": "Profissional com experiência na área de Negócios e interesse em tecnologias emergentes.",
+    "localizacao": "São Paulo/SP",
+    "area": "Negócios",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Django",
+      "NoSQL",
+      "Java"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista de Negócios",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Edge Computing"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Profissional 6",
+    "foto": "./images/avatar6.jpg",
+    "cargo": "Analista Clínico",
+    "resumo": "Profissional com experiência na área de Saúde e interesse em tecnologias emergentes.",
+    "localizacao": "Salvador/BA",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "CSS",
+      "Python",
+      "C++"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista Clínico",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Segurança",
+      "Edge Computing"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Profissional 7",
+    "foto": "./images/avatar7.jpg",
+    "cargo": "Analista de Negócios",
+    "resumo": "Profissional com experiência na área de Negócios e interesse em tecnologias emergentes.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Negócios",
+    "habilidadesTecnicas": [
+      "Docker",
+      "CSS",
+      "NoSQL",
+      "Java"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista de Negócios",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Segurança",
+      "Acessibilidade"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Profissional 8",
+    "foto": "./images/avatar8.jpg",
+    "cargo": "Professor(a) / Instrutor(a)",
+    "resumo": "Profissional com experiência na área de Educação e interesse em tecnologias emergentes.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "AWS",
+      "HTML",
+      "Machine Learning",
+      "SQL"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Professor(a) / Instrutor(a)",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Profissional 9",
+    "foto": "./images/avatar9.jpg",
+    "cargo": "Professor(a) / Instrutor(a)",
+    "resumo": "Profissional com experiência na área de Educação e interesse em tecnologias emergentes.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "SQL",
+      "HTML",
+      "Node.js",
+      "C++"
+    ],
+    "softSkills": [
+      "Gerência de tempo",
+      "Empatia",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Professor(a) / Instrutor(a)",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Segurança"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Profissional 10",
+    "foto": "./images/avatar10.jpg",
+    "cargo": "Analista Clínico",
+    "resumo": "Profissional com experiência na área de Saúde e interesse em tecnologias emergentes.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Azure",
+      "Figma",
+      "CSS",
+      "Java"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista Clínico",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Edge Computing",
+      "Saúde Digital"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Profissional 11",
+    "foto": "./images/avatar11.jpg",
+    "cargo": "Analista de Segurança",
+    "resumo": "Profissional com experiência na área de Segurança e interesse em tecnologias emergentes.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "SASS",
+      "TensorFlow",
+      "React",
+      "SQL"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Gerência de tempo",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista de Segurança",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde Digital",
+      "Edge Computing"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Profissional 12",
+    "foto": "./images/avatar12.jpg",
+    "cargo": "Analista de Negócios",
+    "resumo": "Profissional com experiência na área de Negócios e interesse em tecnologias emergentes.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Negócios",
+    "habilidadesTecnicas": [
+      "Git",
+      "Docker",
+      "Kubernetes",
+      "Django"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Gerência de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista de Negócios",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Segurança",
+      "Acessibilidade"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Profissional 13",
+    "foto": "./images/avatar13.jpg",
+    "cargo": "Engenheiro(a) de Infraestrutura",
+    "resumo": "Profissional com experiência na área de Infraestrutura e interesse em tecnologias emergentes.",
+    "localizacao": "Curitiba/PR",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "CI/CD",
+      "Node.js",
+      "Java",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Criatividade",
+      "Gerência de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Engenheiro(a) de Infraestrutura",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Educação"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Profissional 14",
+    "foto": "./images/avatar14.jpg",
+    "cargo": "Professor(a) / Instrutor(a)",
+    "resumo": "Profissional com experiência na área de Educação e interesse em tecnologias emergentes.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "SASS",
+      "NoSQL",
+      "R",
+      "Java"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Professor(a) / Instrutor(a)",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Saúde Digital"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Profissional 15",
+    "foto": "./images/avatar15.jpg",
+    "cargo": "Engenheiro(a) de Infraestrutura",
+    "resumo": "Profissional com experiência na área de Infraestrutura e interesse em tecnologias emergentes.",
+    "localizacao": "Curitiba/PR",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "Python",
+      "TypeScript",
+      "Accessibility"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Engenheiro(a) de Infraestrutura",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Saúde Digital"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Profissional 16",
+    "foto": "./images/avatar16.jpg",
+    "cargo": "Analista de Negócios",
+    "resumo": "Profissional com experiência na área de Negócios e interesse em tecnologias emergentes.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Negócios",
+    "habilidadesTecnicas": [
+      "React",
+      "SASS",
+      "Git",
+      "UX Research"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Empatia",
+      "Gerência de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista de Negócios",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Edge Computing"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Profissional 17",
+    "foto": "./images/avatar17.jpg",
+    "cargo": "Analista de Segurança",
+    "resumo": "Profissional com experiência na área de Segurança e interesse em tecnologias emergentes.",
+    "localizacao": "Recife/PE",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "SASS",
+      "React",
+      "NoSQL"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista de Segurança",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Edge Computing"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Profissional 18",
+    "foto": "./images/avatar18.jpg",
+    "cargo": "Analista de Segurança",
+    "resumo": "Profissional com experiência na área de Segurança e interesse em tecnologias emergentes.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "UX Research",
+      "Django",
+      "NoSQL"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista de Segurança",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Educação"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Profissional 19",
+    "foto": "./images/avatar19.jpg",
+    "cargo": "Engenheiro(a) de Infraestrutura",
+    "resumo": "Profissional com experiência na área de Infraestrutura e interesse em tecnologias emergentes.",
+    "localizacao": "Curitiba/PR",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "JavaScript",
+      "TensorFlow",
+      "SASS"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Engenheiro(a) de Infraestrutura",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Segurança",
+      "IA"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Profissional 20",
+    "foto": "./images/avatar20.jpg",
+    "cargo": "Desenvolvedor(a) Full-Stack",
+    "resumo": "Profissional com experiência na área de Desenvolvimento e interesse em tecnologias emergentes.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "Machine Learning",
+      "Java",
+      "UX Research"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Desenvolvedor(a) Full-Stack",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Edge Computing",
+      "Educação"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Profissional 21",
+    "foto": "./images/avatar21.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional com experiência na área de Dados e interesse em tecnologias emergentes.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "React",
+      "UX Research",
+      "SASS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Segurança",
+      "Saúde Digital"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Profissional 22",
+    "foto": "./images/avatar22.jpg",
+    "cargo": "Desenvolvedor(a) Full-Stack",
+    "resumo": "Profissional com experiência na área de Desenvolvimento e interesse em tecnologias emergentes.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Java",
+      "NoSQL",
+      "Git",
+      "Figma"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Desenvolvedor(a) Full-Stack",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Saúde Digital"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Profissional 23",
+    "foto": "./images/avatar23.jpg",
+    "cargo": "Analista Clínico",
+    "resumo": "Profissional com experiência na área de Saúde e interesse em tecnologias emergentes.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "AWS",
+      "JavaScript",
+      "Django",
+      "C++"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resiliência",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista Clínico",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Educação"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Profissional 24",
+    "foto": "./images/avatar24.jpg",
+    "cargo": "Analista de Segurança",
+    "resumo": "Profissional com experiência na área de Segurança e interesse em tecnologias emergentes.",
+    "localizacao": "Salvador/BA",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "Django",
+      "Kubernetes",
+      "CSS",
+      "AWS"
+    ],
+    "softSkills": [
+      "Gerência de tempo",
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista de Segurança",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Acessibilidade"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Profissional 25",
+    "foto": "./images/avatar25.jpg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional com experiência na área de Design e interesse em tecnologias emergentes.",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Azure",
+      "NoSQL",
+      "TensorFlow",
+      "SASS"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Product Designer",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Segurança",
+      "IA"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Profissional 26",
+    "foto": "./images/avatar26.jpg",
+    "cargo": "Analista de Segurança",
+    "resumo": "Profissional com experiência na área de Segurança e interesse em tecnologias emergentes.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "C++",
+      "CI/CD",
+      "Python",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista de Segurança",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde Digital",
+      "Segurança"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Profissional 27",
+    "foto": "./images/avatar27.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional com experiência na área de Dados e interesse em tecnologias emergentes.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "TensorFlow",
+      "Azure",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde Digital",
+      "IA"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Profissional 28",
+    "foto": "./images/avatar28.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional com experiência na área de Dados e interesse em tecnologias emergentes.",
+    "localizacao": "Recife/PE",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "CSS",
+      "C++",
+      "Python",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Gerência de tempo",
+      "Trabalho em equipe",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Segurança",
+      "Educação"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Profissional 29",
+    "foto": "./images/avatar29.jpg",
+    "cargo": "Engenheiro(a) de Infraestrutura",
+    "resumo": "Profissional com experiência na área de Infraestrutura e interesse em tecnologias emergentes.",
+    "localizacao": "Curitiba/PR",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Figma",
+      "AWS",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento crítico",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Engenheiro(a) de Infraestrutura",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Educação"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Profissional 30",
+    "foto": "./images/avatar30.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional com experiência na área de Dados e interesse em tecnologias emergentes.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "TypeScript",
+      "Accessibility",
+      "HTML"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Edge Computing",
+      "IA"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Profissional 31",
+    "foto": "./images/avatar31.jpg",
+    "cargo": "Professor(a) / Instrutor(a)",
+    "resumo": "Profissional com experiência na área de Educação e interesse em tecnologias emergentes.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "CI/CD",
+      "AWS",
+      "Figma",
+      "React"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Professor(a) / Instrutor(a)",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Edge Computing",
+      "Acessibilidade"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Profissional 32",
+    "foto": "./images/avatar32.jpg",
+    "cargo": "Analista de Segurança",
+    "resumo": "Profissional com experiência na área de Segurança e interesse em tecnologias emergentes.",
+    "localizacao": "Recife/PE",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "Accessibility",
+      "Figma",
+      "CI/CD",
+      "R"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Criatividade",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista de Segurança",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Segurança"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Profissional 33",
+    "foto": "./images/avatar33.jpg",
+    "cargo": "Analista de Segurança",
+    "resumo": "Profissional com experiência na área de Segurança e interesse em tecnologias emergentes.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "CI/CD",
+      "Python",
+      "C++",
+      "Django"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Gerência de tempo",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista de Segurança",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Educação"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Profissional 34",
+    "foto": "./images/avatar34.jpg",
+    "cargo": "Desenvolvedor(a) Full-Stack",
+    "resumo": "Profissional com experiência na área de Desenvolvimento e interesse em tecnologias emergentes.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "CSS",
+      "NoSQL",
+      "Python"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Desenvolvedor(a) Full-Stack",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Segurança",
+      "IA"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Profissional 35",
+    "foto": "./images/avatar35.jpg",
+    "cargo": "Professor(a) / Instrutor(a)",
+    "resumo": "Profissional com experiência na área de Educação e interesse em tecnologias emergentes.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Azure",
+      "Django",
+      "SQL",
+      "Accessibility"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Empatia",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Professor(a) / Instrutor(a)",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Educação"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Profissional 36",
+    "foto": "./images/avatar36.jpg",
+    "cargo": "Professor(a) / Instrutor(a)",
+    "resumo": "Profissional com experiência na área de Educação e interesse em tecnologias emergentes.",
+    "localizacao": "Curitiba/PR",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "Kubernetes",
+      "AWS",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Gerência de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Professor(a) / Instrutor(a)",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Profissional 37",
+    "foto": "./images/avatar37.jpg",
+    "cargo": "Desenvolvedor(a) Full-Stack",
+    "resumo": "Profissional com experiência na área de Desenvolvimento e interesse em tecnologias emergentes.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Django",
+      "C++",
+      "R"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Gerência de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Desenvolvedor(a) Full-Stack",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Acessibilidade"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Profissional 38",
+    "foto": "./images/avatar38.jpg",
+    "cargo": "Engenheiro(a) de Infraestrutura",
+    "resumo": "Profissional com experiência na área de Infraestrutura e interesse em tecnologias emergentes.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Azure",
+      "TensorFlow",
+      "R",
+      "CI/CD"
+    ],
+    "softSkills": [
+      "Gerência de tempo",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Engenheiro(a) de Infraestrutura",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Segurança",
+      "Educação"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Profissional 39",
+    "foto": "./images/avatar39.jpg",
+    "cargo": "Analista de Negócios",
+    "resumo": "Profissional com experiência na área de Negócios e interesse em tecnologias emergentes.",
+    "localizacao": "Curitiba/PR",
+    "area": "Negócios",
+    "habilidadesTecnicas": [
+      "Java",
+      "Django",
+      "Figma",
+      "React"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista de Negócios",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Saúde Digital"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Profissional 40",
+    "foto": "./images/avatar40.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional com experiência na área de Dados e interesse em tecnologias emergentes.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "Accessibility",
+      "HTML",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde Digital",
+      "IA"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Profissional 41",
+    "foto": "./images/avatar41.jpg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional com experiência na área de Design e interesse em tecnologias emergentes.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "SQL",
+      "HTML",
+      "Accessibility"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Gerência de tempo",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Product Designer",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Edge Computing",
+      "IA"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Profissional 42",
+    "foto": "./images/avatar42.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional com experiência na área de Dados e interesse em tecnologias emergentes.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "TypeScript",
+      "Figma",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Empatia",
+      "Gerência de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Profissional 43",
+    "foto": "./images/avatar43.jpg",
+    "cargo": "Engenheiro(a) de Infraestrutura",
+    "resumo": "Profissional com experiência na área de Infraestrutura e interesse em tecnologias emergentes.",
+    "localizacao": "Salvador/BA",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "React",
+      "Accessibility",
+      "Machine Learning",
+      "SASS"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Liderança",
+      "Gerência de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Engenheiro(a) de Infraestrutura",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Segurança",
+      "Educação"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Profissional 44",
+    "foto": "./images/avatar44.jpg",
+    "cargo": "Professor(a) / Instrutor(a)",
+    "resumo": "Profissional com experiência na área de Educação e interesse em tecnologias emergentes.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Kubernetes",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Criatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Professor(a) / Instrutor(a)",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde Digital",
+      "IA"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Profissional 45",
+    "foto": "./images/avatar45.jpg",
+    "cargo": "Desenvolvedor(a) Full-Stack",
+    "resumo": "Profissional com experiência na área de Desenvolvimento e interesse em tecnologias emergentes.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "Node.js",
+      "HTML",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Desenvolvedor(a) Full-Stack",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Edge Computing",
+      "Saúde Digital"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Profissional 46",
+    "foto": "./images/avatar46.jpg",
+    "cargo": "Desenvolvedor(a) Full-Stack",
+    "resumo": "Profissional com experiência na área de Desenvolvimento e interesse em tecnologias emergentes.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "SQL",
+      "C++",
+      "Pandas"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Desenvolvedor(a) Full-Stack",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde Digital",
+      "Educação"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Profissional 47",
+    "foto": "./images/avatar47.jpg",
+    "cargo": "Desenvolvedor(a) Full-Stack",
+    "resumo": "Profissional com experiência na área de Desenvolvimento e interesse em tecnologias emergentes.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "C++",
+      "UX Research",
+      "Figma",
+      "Python"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Desenvolvedor(a) Full-Stack",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Educação"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Profissional 48",
+    "foto": "./images/avatar48.jpg",
+    "cargo": "Professor(a) / Instrutor(a)",
+    "resumo": "Profissional com experiência na área de Educação e interesse em tecnologias emergentes.",
+    "localizacao": "Salvador/BA",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "Node.js",
+      "TensorFlow",
+      "CI/CD"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Professor(a) / Instrutor(a)",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Acessibilidade"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Profissional 49",
+    "foto": "./images/avatar49.jpg",
+    "cargo": "Professor(a) / Instrutor(a)",
+    "resumo": "Profissional com experiência na área de Educação e interesse em tecnologias emergentes.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "C++",
+      "Kubernetes",
+      "Java",
+      "React"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Professor(a) / Instrutor(a)",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Segurança",
+      "Acessibilidade"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Profissional 50",
+    "foto": "./images/avatar50.jpg",
+    "cargo": "Analista de Segurança",
+    "resumo": "Profissional com experiência na área de Segurança e interesse em tecnologias emergentes.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "SASS",
+      "Git",
+      "HTML",
+      "CSS"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Gerência de tempo",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista de Segurança",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "IA"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Profissional 51",
+    "foto": "./images/avatar51.jpg",
+    "cargo": "Desenvolvedor(a) Full-Stack",
+    "resumo": "Profissional com experiência na área de Desenvolvimento e interesse em tecnologias emergentes.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Java",
+      "C++",
+      "TypeScript",
+      "Django"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Desenvolvedor(a) Full-Stack",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Segurança",
+      "IA"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Profissional 52",
+    "foto": "./images/avatar52.jpg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional com experiência na área de Design e interesse em tecnologias emergentes.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "NoSQL",
+      "Azure",
+      "Docker"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Product Designer",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Acessibilidade"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Profissional 53",
+    "foto": "./images/avatar53.jpg",
+    "cargo": "Desenvolvedor(a) Full-Stack",
+    "resumo": "Profissional com experiência na área de Desenvolvimento e interesse em tecnologias emergentes.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Python",
+      "NoSQL",
+      "Git",
+      "React"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Gerência de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Desenvolvedor(a) Full-Stack",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Edge Computing",
+      "Educação"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Profissional 54",
+    "foto": "./images/avatar54.jpg",
+    "cargo": "Analista de Segurança",
+    "resumo": "Profissional com experiência na área de Segurança e interesse em tecnologias emergentes.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "HTML",
+      "CI/CD",
+      "React"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Criatividade",
+      "Gerência de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista de Segurança",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde Digital",
+      "Edge Computing"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Profissional 55",
+    "foto": "./images/avatar55.jpg",
+    "cargo": "Analista de Segurança",
+    "resumo": "Profissional com experiência na área de Segurança e interesse em tecnologias emergentes.",
+    "localizacao": "São Paulo/SP",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "Azure",
+      "Machine Learning",
+      "Python"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista de Segurança",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Educação"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Profissional 56",
+    "foto": "./images/avatar56.jpg",
+    "cargo": "Professor(a) / Instrutor(a)",
+    "resumo": "Profissional com experiência na área de Educação e interesse em tecnologias emergentes.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Azure",
+      "Java",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia",
+      "Gerência de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Professor(a) / Instrutor(a)",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Edge Computing"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Profissional 57",
+    "foto": "./images/avatar57.jpg",
+    "cargo": "Engenheiro(a) de Infraestrutura",
+    "resumo": "Profissional com experiência na área de Infraestrutura e interesse em tecnologias emergentes.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "SASS",
+      "NoSQL",
+      "Java"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Empatia",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Engenheiro(a) de Infraestrutura",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Segurança",
+      "Acessibilidade"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Profissional 58",
+    "foto": "./images/avatar58.jpg",
+    "cargo": "Analista Clínico",
+    "resumo": "Profissional com experiência na área de Saúde e interesse em tecnologias emergentes.",
+    "localizacao": "Curitiba/PR",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "React",
+      "NoSQL",
+      "JavaScript",
+      "SQL"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista Clínico",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde Digital",
+      "IA"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Profissional 59",
+    "foto": "./images/avatar59.jpg",
+    "cargo": "Engenheiro(a) de Infraestrutura",
+    "resumo": "Profissional com experiência na área de Infraestrutura e interesse em tecnologias emergentes.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "CI/CD",
+      "HTML",
+      "Node.js",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação",
+      "Gerência de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Engenheiro(a) de Infraestrutura",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde Digital",
+      "Edge Computing"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Profissional 60",
+    "foto": "./images/avatar60.jpg",
+    "cargo": "Analista de Segurança",
+    "resumo": "Profissional com experiência na área de Segurança e interesse em tecnologias emergentes.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "CSS",
+      "R",
+      "HTML",
+      "CI/CD"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Exemplo",
+        "cargo": "Analista de Segurança",
+        "inicio": "2019-01",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos relevantes e melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado (ou equivalente)",
+        "instituicao": "Universidade Exemplo",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Principal",
+        "link": "https://",
+        "descricao": "Projeto de destaque na área."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Relevante"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Segurança",
+      "Saúde Digital"
+    ]
+  }
+]
